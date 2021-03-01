@@ -1,10 +1,9 @@
 # xunit-dotnet-listener
-Orangebeard listener for xUnit.net tests
 <h1 align="center">
   <a href="https://github.com/orangebeard-io/xunit-dotnet-listener">
     <img src="https://raw.githubusercontent.com/orangebeard-io/xunit-dotnet-listener/main/.github/logo.svg" alt="Orangebeard.io xUnit.net Test Listener" height="200">
   </a>
-  <br>Orangebeard.io xUnit.net Listener<br>
+  <br>
 </h1>
 
 <h4 align="center">A Listener to report xUnit.net tests in Orangebeard.</h4>
