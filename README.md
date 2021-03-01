@@ -1,7 +1,7 @@
 # xunit-dotnet-listener
 <h1 align="center">
   <a href="https://github.com/orangebeard-io/xunit-dotnet-listener">
-    <img src="https://raw.githubusercontent.com/orangebeard-io/xunit-dotnet-listener/main/.github/logo.svg" alt="Orangebeard.io xUnit.net Test Listener" height="200">
+    <img src="https://raw.githubusercontent.com/orangebeard-io/xunit-dotnet-listener/main/.github/logo-2.svg" alt="Orangebeard.io xUnit.net Test Listener" height="200">
   </a>
   <br>
 </h1>
